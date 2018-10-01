@@ -1,0 +1,186 @@
+.khung{
+	float: left;
+	width: 500px;
+	height: 550px;
+	background-image: url(https://www.chudu24.com/wp-content/uploads/2017/06/3-127.jpg);
+	background-repeat:no-repeat;
+	margin-left: 30%;
+}
+.khung .box{
+	float: left;
+	width: 96%;
+	height: 540px;
+	background: black;
+	margin-left: 2%;
+	margin-top: 5px;
+	background-color: rgba(25,25,25,0.8);
+}
+.box h3{
+	margin: 0;
+	width: 100%;
+	height:100px;
+	/*background: yellow;*/
+	color: white;
+	text-transform:uppercase;
+	font-weight: bold;
+	text-align: center;
+	font-family: verdana;
+	font-size: 17px;
+	line-height: 100px;
+}
+.box .fullname{
+	float: left;
+	margin: 0;
+	width: 45%;
+	height: 80px;
+	/*background: red;*/
+	margin-left: 20px;
+}
+.fullname p.full{
+	margin: 0;
+	font-family: verdana;
+	font-size: 15px;
+	color: white;
+}
+.fullname input.FullName{
+	width: 100%;
+	height: 40px;
+	margin-top:10px;
+	border-radius: 5px;
+	border: 0px;
+}
+.box .user{
+	float: left;
+	margin: 0;
+	width: 45%;
+	height: 80px;
+	/*background: red;*/
+	margin-left: 20px;
+}
+.user p.username{
+	margin: 0;
+	font-family: verdana;
+	font-size: 15px;
+	color: white;
+}
+.user input.name{
+	width: 100%;
+	height: 40px;
+	margin-top:10px;
+	border-radius: 5px;
+	border: 0px;
+}
+.box .email{
+	float: left;
+	margin: 0;
+	width: 45%;
+	height: 80px;
+	/*background: red;*/
+	margin-left: 20px;
+}
+.email p.e-mail{
+	margin: 0;
+	font-family: verdana;
+	font-size: 15px;
+	color: white;
+}
+.email input.mail{
+	width: 100%;
+	height: 40px;
+	margin-top:10px;
+	border-radius: 5px;
+	border: 0px;
+}
+.box .e-confirm{
+	float: left;
+	margin: 0;
+	width: 45%;
+	height: 80px;
+	/*background: red;*/
+	margin-left: 20px;
+}
+.e-confirm p.E-confirm{
+	margin: 0;
+	font-family: verdana;
+	font-size: 15px;
+	color: white;
+}
+.e-confirm input.Confirm{
+	width: 100%;
+	height: 40px;
+	margin-top:10px;
+	border-radius: 5px;
+	border: 0px;
+}
+.box .password{
+	float: left;
+	margin: 0;
+	width: 45%;
+	height: 80px;
+	/*background: red;*/
+	margin-left: 20px;
+}
+.password p.p-word{
+	margin: 0;
+	font-family: verdana;
+	font-size: 15px;
+	color: white;
+}
+.password input.pass{
+	width: 100%;
+	height: 40px;
+	margin-top:10px;
+	border-radius: 5px;
+	border: 0px;
+}
+.box .Confirm-pass{
+	float: left;
+	margin: 0;
+	width: 45%;
+	height: 80px;
+	/*background: red;*/
+	margin-left: 20px;
+}
+.Confirm-pass p.C-pass{
+	margin: 0;
+	font-family: verdana;
+	font-size: 15px;
+	color: white;
+}
+.Confirm-pass input.Confirmpass{
+	width: 100%;
+	height: 40px;
+	margin-top:10px;
+	border-radius: 5px;
+	border: 0px;
+}
+.box input.check{
+	float: left;
+	width: 5%;
+	height: 13px;
+	border: 0px;
+	margin-top: 15px;
+	margin-left: 20px;
+}
+.box  p.text{
+	float: left;
+	width: 50%;
+	height: 15px;
+	color: white;
+	font-family: verdana;
+	font-size: 13px;
+}
+.box input.login{
+	float: left;
+	width: 30%;
+	height: 50px;
+	background: #FF8C00;
+	margin-top: 70px;
+	border-radius:5px;
+	border:0px;
+	text-transform: uppercase;
+	color: white;
+	font-weight: bold;
+	font-family: verdana ,sans-serif;
+	font-size: 13px;
+}

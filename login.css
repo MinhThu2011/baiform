@@ -1,0 +1,87 @@
+.khung{
+	float: left;
+	width: 500px;
+	height: 500px;
+	margin-left: 30%;
+	background-image: url(https://png.pngtree.com/thumb_back/fw800/back_pic/04/60/75/35586d07a8ef5a6.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+.khung .register{
+	float: left;
+	margin-top: 100px;
+	width: 70%;
+	height: 300px;
+	margin-left: 15%;
+}
+.register fieldset{
+	border-radius: 10px;
+	height: 290px;
+}
+.register legend.pic{
+	width: 30%;
+	height: 100px;
+	margin-left: 115px;
+    border-radius: 50px;
+	background-color: rgba(255,255,255,0.6);
+}
+.pic img {
+	width: 80%;
+	height: 80%;
+	margin-left: 10%;
+}
+.register input{
+	width: 96%;
+	height: 30px;
+	margin-top: 15px;
+	border-radius: 3px;
+	margin-left: 2%;
+}
+.register input.user{
+	background-image:url(https://www.belizebusiness.com/zcdn/listing_contacts_avatars/59112a2fe1fe620cf2c43b0c.jpg);
+	background-repeat: no-repeat;
+	background-size: 15px 15px;
+	background-position: left 8px top 8px;
+	text-indent: 40px;
+	border: 0px;
+}
+.register input.pass{
+	background-image: url(https://cdn.pixabay.com/photo/2013/07/12/15/22/keyhole-149772_960_720.png);
+	background-repeat: no-repeat;
+	background-size: 15px 15px;
+	background-position: left 8px top 8px;
+	border: 0px;
+}
+.register input.dangnhap{
+	background: #0000CD;
+	color: white;
+	border: 0px;
+	border-radius: 0px;
+	height: 30px;
+	text-transform: uppercase;
+	font-size: 11px;
+	font-family: Helvetica;
+	letter-spacing:1px;
+}
+.register input.check{
+	width: 5%;
+	height: 13px;
+	border: 0px;
+	margin-top: 15px;
+	margin-left: 20px;
+}
+
+.register a{
+	width: 40%;
+	height: 15px;
+	margin-left: 30px;
+	text-decoration: none;
+	color: black;
+	text-transform: capitalize;
+	font-size: 11px;
+	font-family: verdana;
+}
+.register a:hover{
+	color: blue;
+}

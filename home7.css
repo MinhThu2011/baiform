@@ -1,0 +1,268 @@
+.khung{
+	width: 850px;
+	height: 900px;
+	background: #e5e5e5;
+	margin:0 auto;
+}
+.khung .register1{
+	float: left;
+	width: 48%;
+	height: 350px;
+	background: #cccccc;
+}
+.register1 h3{
+	display: block;	
+	padding-left: 35px;
+	width: 85%;
+	height: 50px;
+	margin-top: 5px;
+	margin-left: 3%;
+	background: #bf0000;
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/U2713.svg/945px-U2713.svg.png);
+	background-repeat: no-repeat;
+	background-position: left 5px top 10px;
+	background-size: 25px 25px;
+	border-radius: 5px;
+	font-size: 22px;
+	font-family: cursive;
+	line-height: 50px;
+}
+.register1 input{
+	width: 93%;
+	height: 50px;
+	margin-bottom: 10px;
+	margin-left: 3%;
+	border-radius: 5px;
+	text-indent: 25px;
+	text-transform: capitalize;
+	border: 0px;
+}
+.register1 input.name{
+	background-image: url(https://cdn.pixabay.com/photo/2017/02/25/22/04/user-icon-2098873_960_720.png);
+	background-repeat: no-repeat;
+	background-position: right 15px top 20px;
+	background-size: 20px 20px;
+}
+.register1 input.mail{
+	background-image: url(https://mbtskoudsalg.com/images250_/email-icon-white-png-5.png);
+	background-repeat: no-repeat;
+	background-position: right 10px top 10px;
+	background-size: 35px 35px;
+}
+.register1 input.phone{
+	background-image: url(https://png.icons8.com/metro/1600/phone.png);
+	background-repeat: no-repeat;
+	background-position: right 10px top 15px;
+	background-size: 25px 25px;
+}
+.khung .register2{
+	float:right ;
+	width: 48%;
+	height: 510px;
+	background: #cccccc;
+}
+.register2 h3{
+	display: block;	
+	margin: 0px;
+	width: 100%;
+	height: 150px;
+	background:white;
+	font-size: 50px;
+	font-family:  Helvetica;
+	text-transform: uppercase;
+	line-height: 50px;
+	line-height: 150px;
+	text-indent: 30px;
+	color: #007f00;
+}
+.register2 .register{
+	float: right;
+	width: 100%;
+	height: 550px;
+}
+.register h3{
+	display: block;	
+	width: 85%;
+	height: 50px;
+	margin-top: 10px;
+	margin-left: 3%;
+	padding-right: 35px;
+	background: #bf0000;
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/U2713.svg/945px-U2713.svg.png);
+	background-repeat: no-repeat;
+	background-position: left 5px top 10px;
+	background-size: 25px 25px;
+	border-radius: 5px;
+	font-size: 22px;
+	text-transform: capitalize;
+	color: black;
+	font-family: cursive;
+	line-height: 50px;
+}
+.register input.address{
+	width: 92%;
+	height: 50px;
+	margin-bottom: 10px;
+	margin-top: 20px;
+	margin-left: 3%;
+	border-radius: 5px;
+	text-indent: 25px;
+	text-transform: capitalize;
+	border: 0px;
+}
+.register input.city{
+	width: 92%;
+	height: 50px;
+	margin-bottom: 10px;
+	margin-left: 3%;
+	border-radius: 5px;
+	text-indent: 25px;
+	text-transform: capitalize;
+	border: 0px;
+}
+.register input.state{
+	float: left;
+	width: 60%;
+	height: 50px;
+	margin-bottom: 10px;
+	margin-top: 20px;
+	margin-left: 3%;
+	border-radius: 5px;
+	text-indent: 25px;
+	text-transform: capitalize;
+	border: 0px;
+}
+.register input.zip{
+	float: left;
+	width: 30%;
+	height: 50px;
+	margin-bottom: 10px;
+	margin-top: 20px;
+	margin-left: 1%;
+	border-radius: 5px;
+	text-indent: 25px;
+	text-transform: capitalize;
+	border: 0px;
+}
+.register select{
+	width: 93%;
+	height: 50px;
+	margin-bottom: 10px;
+	margin-left: 3%;
+	border-radius: 5px;
+	text-indent: 25px;
+	text-transform: capitalize;
+}
+.khung .register3{
+	float: left;
+	width: 48%;
+	height: 400px;
+	background: #cccccc;
+	margin-top: 10px;
+}
+.register3 h3{
+	display: block;	
+	padding-left: 35px;
+	width: 85%;
+	height: 80px;
+	margin-top: 5px;
+	margin-left: 3%;
+	background: #bf0000;
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/U2713.svg/945px-U2713.svg.png);
+	background-repeat: no-repeat;
+	background-position: left 5px top 10px;
+	background-size: 25px 25px;
+	border-radius: 5px;
+	font-size: 21px;
+	text-transform: capitalize;
+	font-family: cursive;
+	line-height: 40px;
+}
+.register3 .CreditCardNumber{
+	float: left;
+	width:70%;
+	height:100px;
+	margin-left: 10px;
+}
+.CreditCardNumber .card{
+	width:98%;
+	height:50px;
+	margin-top: 10px;
+	margin-left: 2px;
+	border-radius: 2px;
+	border: 0px;
+}
+.register3 .g-cvv{
+	float: left;
+	width:20%;
+	height:70px;
+	margin-left: 5%;
+}
+.g-cvv .cvv{
+	width:94%;
+	height:50px;
+	margin-top: 10px;
+	margin-left: 2px;
+	border-radius: 2px;
+	border: 0px;
+}
+.register3 .Expiry-Month{
+	float: left;
+	width:30%;
+	height:70px;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+.Expiry-Month select{
+	width:95%;
+	height:50px;
+	margin-top: 10px;
+	margin-left: 2px;
+}
+.register3 .Expiry-Year{
+	float: left;
+	width:30%;
+	height:70px;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+.Expiry-Year select{
+	width:95%;
+	height:50px;
+	margin-top: 10px;
+	margin-left: 2px;
+}
+.register3 .pic{
+	float: left;
+	margin-top: 30px;
+	height: 80px;
+	width: 80%;
+	margin-left: 13px;
+}
+.pic img.visa{
+	float: left;
+	width: 70px;
+	height:65px;
+	border-radius: 5px
+}
+.pic img.master{
+	float: left;
+	width: 70px;
+	height:60px;
+	margin-left: 10px;
+	border-radius: 5px
+}
+.pic img.American{
+	float: left;
+	width: 70px;
+	height:60px;
+	margin-left: 10px;
+	border-radius: 5px
+}
+.pic img.discover{
+	float: left;
+	width: 70px;
+	height:65px;
+	margin-left: 10px;
+	border-radius: 5px
+}

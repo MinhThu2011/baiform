@@ -1,0 +1,131 @@
+.khung{
+	float: left;
+	width: 500px;
+	height: 550px;
+	margin-left: 30%;
+	background-image: url(http://img.idesign.vn/500x-/2010/12/wallpaper_hinh_nen_60.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+.khung .box {
+	float: left;
+	margin-top: 20px;
+	width: 90%;
+	height: 510px;
+	margin-left: 5%;
+	background-color: rgba(255,255,255,0.3);
+	border: 1px solid #b2b2b2;
+	border-radius: 5px;
+}
+.box h3{
+	margin: 0;
+	height: 50px;
+	width: 100%;
+	text-indent: 300px;
+	line-height: 70px;
+	text-transform: uppercase;
+	font-family:  Helvetica, Arial, sans-serif;
+	font-weight: bold;
+}
+.box p{
+	float: right;
+	margin-right: 20px;
+	margin-top: 5px;
+}
+.box .line{
+	float: left;
+	width: 92%;
+	height: 2px;
+	background: white;
+	margin-left: 4%;
+	margin-bottom: 30px;
+}
+.box .ten{
+	float: left;
+	width:80%;
+	height: 60px;
+	background: #ff7f00;
+	margin-left:10%;
+	border-radius: 6px;
+	margin-bottom: 20px;
+}
+.ten p {
+	display: block;
+	width: 70%;
+	height: 5px;
+	margin-right: 90px;
+	text-transform: uppercase;
+	font-size: 12px;
+	font-family:  verdana, Arial, sans-serif;
+	color: white;
+}
+.ten input.name{
+	width:90%;
+	height: 30px;
+	border-radius: 2px;
+	border: 0px;
+	margin-left:5%;
+}
+.box .mail{
+	float: left;
+	width:80%;
+	height: 60px;
+	background: #56aaff;
+	margin-left:10%;
+	border-radius: 6px;
+	margin-bottom: 20px;
+}
+.mail p {
+	display: block;
+	width: 70%;
+	height: 5px;
+	margin-right: 90px;
+	text-transform: uppercase;
+	font-size: 12px;
+	font-family:  verdana, Arial, sans-serif;
+	color: white;
+}
+.mail input.email{
+	width:90%;
+	height: 30px;
+	border-radius: 2px;
+	border: 0px;
+	margin-left:5%;
+}
+.box .tuoi{
+	float: left;
+	width:80%;
+	height: 60px;
+	background: #7fff00;
+	margin-left:10%;
+	border-radius: 6px;
+	margin-bottom: 20px;
+}
+.tuoi p {
+	display: block;
+	width: 70%;
+	height: 5px;
+	margin-right: 90px;
+	text-transform: uppercase;
+	font-size: 12px;
+	font-family:  verdana, Arial, sans-serif;
+	color: white;
+}
+.tuoi input.age{
+	width:90%;
+	height: 30px;
+	border-radius: 2px;
+	border: 0px;
+	margin-left:5%;
+}
+.box input.sub{
+	width: 50%;
+	height: 40px;
+	margin-left: 25%;
+	text-transform: uppercase;
+	font-family:  Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	border-radius: 6px;
+	border: 0px;
+}

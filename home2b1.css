@@ -1,0 +1,110 @@
+.register{
+	margin: 0 auto;
+	width: 500px;
+	height: 500px;
+	background:#e5e5e5;
+	border-radius: 5px;
+}
+.register h3{
+	margin: 0;
+	width: 100%;
+	height: 50px;
+	/*background: yellow;*/
+	font-size: 30px;
+	text-align: center;
+	text-transform: capitalize;
+	line-height: 50px;
+	opacity: 0.3;
+}
+.register input{
+	width: 60%;
+	height: 30px;
+	margin-top: 30px;
+	margin-left: 10%;
+	border-radius: 5px;
+}
+.register input.pic1{
+	float: left;
+	width: 7%;
+	height: 36px;
+	background: #1daf64;
+	border-radius: 5px 0px 0px 5px;
+	border: 5px;
+	background-repeat: no-repeat;
+	background-size: 17px 17px;
+	background-position: center;
+	background-image: url(https://mbtskoudsalg.com/images250_/email-icon-png-3.png);
+}
+.register input.email{
+	float: left;
+	width: 70%;
+	height: 30px;
+	margin-left: 0px;
+	text-indent: 10px;
+	border-radius: 0px 5px 5px 0px; 
+}
+.register input.pic2{
+	float: left;
+	width: 7%;
+	height: 36px;
+	background: #1daf64;
+	border-radius: 5px 0px 0px 5px;
+	border: 5px;
+	background-repeat: no-repeat;
+	background-size: 17px 17px;
+	background-position: center;
+	background-image: url(http://www.myiconfinder.com/uploads/iconsets/256-256-64044e2866a2792580269e400fe109b2-key.png);
+}
+.register input.pass{
+	float: left;
+	width: 70%;
+	height: 30px;
+	margin-left: 0px;
+	text-indent: 10px;
+	border-radius: 0px 5px 5px 0px; 
+}
+.register input.pic3{
+	float: left;
+	width: 7%;
+	height: 36px;
+	background: #1daf64;
+	border-radius: 5px 0px 0px 5px;
+	border: 5px;
+	background-repeat: no-repeat;
+	background-size: 17px 17px;
+	background-position: center;
+	background-image: url(https://cdn1.iconfinder.com/data/icons/social-messaging-productivity-4/128/world3-2-512.png);
+}
+.register input.location{
+	float: left;
+	width: 66%;
+	height: 30px;
+	margin-left: 0px;
+	text-indent: 10px;
+	border-radius: 0.1px;	
+}
+.register select{
+	float: left;
+	margin-top:30px;
+	width: 4%;
+	height: 35px;
+	border-radius: 0px 4px 4px 0px; 
+
+}
+.register input.dangnhap{
+	width: 78%;
+	height: 40px;
+	background:  #1daf64;
+	color: white;
+}
+.register input.login{
+	width: 78%;
+	height: 40px;
+	color: white;
+	background: #42a0ff;
+	background-image: url(https://cdn2.iconfinder.com/data/icons/the-circle-icons/513/twitter.png);
+	background-repeat: no-repeat;
+	background-size: 40px 40px;
+	background-position: left 90px bottom 0px;
+
+}
